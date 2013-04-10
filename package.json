@@ -13,5 +13,9 @@
     "API"
   ],
   "author": "Ryan Schmukler",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "~0.14.1",
+    "crypto": "0.0.3"
+  }
 }
